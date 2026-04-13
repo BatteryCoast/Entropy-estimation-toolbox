@@ -1,5 +1,11 @@
 # OCV and Entropy estimation toolbox
-The toolbox and tutorial was created by Svenas Burba mail:(burba.svenas@uia.no)
+The toolbox and tutorial was created by Svenas Burba 
+
+## Contact information ##
+
+E-mail: burba.svenas@uia.no, williams.a.appiah@uia.no
+
+## Repository description ##
 
 This is a toolbox that is based in MatLab to estimate open circuit voltage and entropy coefficients from experiment charge/discharge data of full and half-cell formats. The toolbox is presented in a tutorial form with step by step guide on requirements and execution process. The repository contains all the neccessary files to complete the tutorial and toolbox it self to use for your own needs. Additionally, repository contains the data that was used to estimate entropy coefficients and open circuit voltages for half-cells used in the work: **Data Driven Entropy Coefficient Estimation for Large-Format Lithium-Ion Batteries** https://doi.org/10.1002/batt.202500533?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle 
 
