@@ -21,6 +21,6 @@ The toolbox repository can be downloaded and used locally on the system followin
 
 Git can be used to clone repository in wanted folder without manual download, zipping and extraction.
 1. Make sure Git bash is installed, if not, download it
-2. cd "<path>" into the folder you want to clone repository to
-3. clone the repository with: clone "<repository HPPTS link>"  
+2. cd "path" into the folder you want to clone repository to
+3. clone the repository with: clone "repository HPPTS link"  
 
